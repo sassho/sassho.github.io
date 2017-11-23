@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+ <head>
+        <meta charset="UTF-8">
+        <title>Ты успешно зарегистрировался!</title>
+        <link rel="stylesheet" href="../css/normalize.css">
+        <link rel="stylesheet" href="../css/main.css" media="screen" type="text/css">
+<!--          
+          -->
+        <link rel="stylesheet" href="../css/bootstrap.css">
+        <link rel="stylesheet" href="../css/style-portfolio.css">
+        <link rel="stylesheet" href="../css/picto-foundry-food.css" />
+        <link rel="stylesheet" href="../css/jquery-ui.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="../css/font-awesome.min.css" rel="stylesheet">
+        <link rel="icon" href="favicon-1.ico" type="image/x-icon">
+    </head>
+                  
+<body>
+<meta charset="UTF-8">
+										<section  id="registrationform"  class="description_content">																				
+										<h2><p>Ты успешно зарегистрировался!</p></h2>
+										</section>										
+										<p class="desc-text1">Скоро мы свяжемся с тобой для подтверждения заявки!</p>
+										<br>
+										<br>
+										<br>
+										<section  id="registrationformmm"  class="description_content">																														
+										<h2>Возможно, что - нибудь из этого тебя заинтересует</h2>
+										</section>
+                    <p class="desc-text1">Наши сотрудники приложат все усилия, чтобы устроить вам замечательный вечер. И, возможно, ты захочешь сделать его ещё ярче для себя и твоего спутника или спутницы</p>										
+										
+				<div class="text-content container"> 
+                <div class="col-md-6">
+                    <h1>Удивительный сюрприз подруге</h1>
+                    
+                    	<p class="desc-text">	
+                    	<br>Если бы мы описали, что он будет из себя представлять, а твоя подруга зашла на наш сайт и прочитала это, то сюрприз бы не получился:)
+                    	<br>Поэтому его держать в секрете. Скажем лишь только, что наш шеф-повар и бармен сделают нечто действительно 
+                    	удивительное, что не оставит равнодушной ни одну девушку!
+                    	</p>
+                     <br>
+                    	<p class="desc-text1">                                        	                                          
+							<br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4.0pay_girl.html'" ><b>Сюрприз подруге<br>1930 рублей</b></button>
+							</p> 							
+							<br> 
+							<br>                   									  
+                </div>
+                <div class="col-md-6">
+                   <div class="img-section">
+                       <img src="../images1/alco/for girl.jpg" width="100%" o>
+                   </div>
+                </div>                
+            </div>		
+            
+            <br>
+            <br>		
+           	<div class="text-content container"> 
+                <div class="col-md-6">
+               
+                    <h1>Яркий сюрприз другу</h1>
+                    	<p class="desc-text">	
+                    	<br>И его мы тоже пока будем держать в секрете:) Скажем лишь только, что наш шеф-повар и бармен сделают нечто действительно удивительное, что прийдётся по душе каждому мужчине!
+                    	</p>
+                     <br>
+                    <p class="desc-text1">                                        	                     
+							<br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4.1pay_boy.html'" ><b>Сюрприз другу<br>1930 рублей</b></button></p> 
+                    <br>
+                    <br>                     									                      
+                </div>
+                <div class="col-md-6">
+                       <img src="../images1/alco/for guy.jpg" width="100%">
+      
+                </div>
+            </div> 	
+            
+            <br>
+            <br>		
+           	
+           	<div class="text-content container"> 
+                <div class="col-md-6">
+               
+                    	<h1>Романтический сюрприз прекрасной леди</h1>
+                    	<p class="desc-text">                   
+							<br>Романтика - это настоящее искусство. И мы создадим настоящее чудо для твоей принцессы!
+                    <p class="desc-text1">                                        	
+							<br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4.2prepayGF.html'" ><b>Романтический сюрприз<br>девушке</b></button> </p>
+                    	<br>
+                    	<br>                     									                      
+                </div>
+                <div class="col-md-6">
+                       <img src="../images1/alco/girlfriend.jpeg" width="100%">
+      
+                </div>
+            </div>    
+            
+            <br>
+            <br>		
+           	            
+            <div class="text-content container"> 
+                <div class="col-md-6">
+               
+                    <h1>Романтический сюрприз молодому человеку</h1>
+                    <p class="desc-text">
+                    <br>Мы не сомневаемся, что с нашей помощью ты сможешь сделать этот вечер для него одним из лучших в его жизни!</p>                    
+                    <p class="desc-text1">                    
+                    <br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='4.3prepayBF.html'" ><b>Романтический сюрприз<br>молодому человеку</b></button>
+                    <br></p>
+                    <br>                     									                      
+                </div>
+                <div class="col-md-6">
+                       <img src="../images1/alco/for boyfriend.jpeg" width="100%">
+      
+                </div>
+            </div>         
+            
+ 
+                         <!-- Clear -->
+                            <div class="clear"></div>
+                            <br>
+                            <br> 
+                        </form>
+                        <div id="reserveFormResponse"></div>
+</body>
+</html>

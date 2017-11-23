@@ -1,0 +1,368 @@
+a<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Интерактивный мастер-класс "Искусство бармена"</title>
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css" media="screen" type="text/css">
+        <!--  
+          -->
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/style-portfolio.css">
+        <link rel="stylesheet" href="css/picto-foundry-food.css" />
+        <link rel="stylesheet" href="css/jquery-ui.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="css/font-awesome.min.css" rel="stylesheet">
+        <link rel="icon" href="favicon-1.ico" type="image/x-icon">
+    </head>
+
+
+    <body>
+
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="row">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                       <!-- <a class="navbar-brand" href="index.html#">Вечеринка "Жаркий женский день"</a> -->
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav main-nav  clear navbar-right ">
+                            <li><a class="navactive color_animation" href="index.html#top">НАЧАЛО</a></li>
+                            <li><a class="color_animation" href="index.html#story">ЧТО ЭТО?</a></li> 
+                            <li><a class="color_animation" href="index.html#barman">ИСКУССТВО БАРМЕНА</a></li>
+                            <li><a class="color_animation" href="index.html#feedback">ОТЗЫВЫ</a></li>
+                            <li><a class="color_animation" href="index.html#registration">ЗАРЕГИСТРИРОВАТЬСЯ</a></li>
+                           <!-- <li><a class="color_animation" href="index.html#reservation">RESERVATION</a></li> -->
+                           <!-- <li><a class="color_animation" href="index.html#contact">CONTACT</a></li> -->
+                        </ul>
+                    </div><!-- /.navbar-collapse -->
+                </div>
+            </div><!-- /.container-fluid -->
+        </nav>
+         
+        <div id="top" class="starter_container bg">
+            <div class="follow_container">
+                <div class="col-md-6 col-md-offset-3">
+						  <h2 class="white second-title">Интерактивный мастер-класс </h2>	                    
+                    <h2 class="top-title"> "Искусство&nbsp;бармена"</h2>                                        
+                     
+                    
+                    <hr>
+                </div>
+            </div>
+        </div>
+
+  <!-- ============ О нас  ============= -->
+
+        <section id ="story" class="description_content">
+            <!--<div  class="beer background_content">
+                <h1>Great <span>Place</span> to enjoy</h1>
+            </div>
+				-->            
+            <div class="text-content container"> 
+                   <div class="col-md-5">
+                   <div class="img-section">
+                       <img src="images1/condy/condy&coctail1.jpg" width="100%">
+                   </div>
+                </div>
+                <div class="col-md-6 col-md-offset-1">
+                <br>
+                    <h1>ЧТО ЖДЁТ ВАС?</h1>
+                    <!--<div class="icon-beer fa-2"></div> -->
+                    <p class="desc-text">  </p>
+                    <p class="desc-text"> <br>В этот раз мы решили  провести для вас  
+                    								мастер-класс "Искусство бармена", где наш мастер
+                    								научит вас легко готовить изысканные,
+                    								эффектные и вкусные коктейли
+                </div>
+            </div>
+        </section>
+
+
+       <!-- ============ Art of barman ============= -->
+
+
+  <section id="barman" class="description_content">
+            <div  class="featured background_content">
+                <h1>мастер-класс<br>"Искусство бармена"</h1>
+            </div>
+        </section>
+            
+   			<div class="text-content container"> 
+                <div class="col-md-6">
+               
+                    <h1>О МАСТЕР-КЛАССЕ</h1>
+                    <!--<div class="icon-bread fa-2x"></div> -->
+                    <p class="desc-text">	<br>Профессиональный бармен раскроет все секреты интересного ремесла, научит смешивать, шейковать, укладывать свои и украшать коктейли. 
+                    								Особое внимание он уделит коктейлям, хорошо сочетающимся со сладким и с шоколадными угощениями. 
+                    								После такого мастер-класса Вы легко приготовите любимый напиток и удивите своих друзей новым необычным навыком. Занятие будет проходить
+                    								за барной стойкой, укомплектованной всем необходимым оборудованием и продуктами, включая лед. Урок коктейльного мастерства рассчитан 
+                    								на шестерых, так что это будет не только полезно, но и весело!</p>
+                </div>
+                <div class="col-md-6">
+                    <img src="images1/alco/alco-master.jpg" height="60%" alt="alco-master">
+                    
+                </div>
+            </div>                    
+            
+				<br>		
+					</br>
+					</br>            
+            
+             
+            <div class="text-content container"> 
+                <div class="col-md-6">
+                    <img src="images1/alco/alco-master 3.jpg" width="560" alt="BDSM">
+                </div>
+                <div class="col-md-6">
+                    <h1>КАК ВСЁ ПРОХОДИТ</h1>
+                    <!--<div class="icon-bread fa-2x"></div> -->
+                    <p class="desc-text"><br>Бармен объяснит теорию и предложит приготовить по пять разных коктейлей. Счастливчики узнают, что такое джиггеры и зачем нужны спиральные 
+                    								ложки, после чего попробуют применить специальный инвентарь. Длительность мастер-класса — <b>2 часа + час</b> на дегустацию</p>
+                </div>
+
+            </div>              
+            
+				<br>		
+					</br>
+					</br>            
+            
+            <div class="text-content container"> 
+                <div class="col-md-6 col-md-offset-1">
+                    <h1>Теория и практика от профессионального бармена</h1>
+                    
+                    <p class="desc-text"><br>Мастер-класс будет состоять из двух частей. Сначала профи расскажет об использовании барных 
+                    									аксессуаров и даст советы о том, какие из них стоит приобрести для домашнего использования. Затем наступит черед практики: каждый участник 
+                    									под руководством бармена приготовит по пять миксов. А после этого вы сможете продегустировать свои коктейли и при желании - приготовить еще несколько</p>
+                </div>
+                <div class="col-md-5">
+                   <div class="img-section">
+                       <img src="images1/alco/alco-master 2.jpg" width="90%">
+                   </div>
+                </div>					
+            </div>
+                           
+         
+            <br>
+            <br>
+            <br>
+				<br>
+				<br>				            
+            
+            <div class="text-content container"> 
+                <div class="col-md-6">		                    
+                    <p class="desc-text">
+                    <h1>Как проходят наши мастер-классы</h1>
+            <br>
+            <br>
+            <br>
+				<br>
+				<br>                    
+                </div>
+                <div class="col-md-5">
+                   <div class="img-section">
+                       <img src="images1/alco/alco2.jpg" width="200">
+                       <img src="images1/alco/alco4.jpg" width="200">
+                       <img src="images1/alco/alco0.jpg" width="200">
+                       <img src="images1/alco/alco3.jpg" width="200">
+                       <img src="images1/alco/alco1.jpg" width="200">
+                       <img src="images1/alco/alco5.jpg" width="200">            
+                       <br>
+                       <br>                                                                                                      
+                   </div>
+                </div>	
+            </div> 
+            <br>
+            <br>
+            <br>
+                              
+
+<!--FEEDBACKS-->
+         
+ <section id="feedback" class="description_content">
+            <div  class="feedback background_content">
+                <h1>Отзывы наших гостей</h1>
+            </div> 
+ </section>       
+               <div class="text-content container">
+                   <div class="img-section">
+                       <img src="images1/alco/feed5.jpg" width="40%">
+                       <img src="images1/alco/feed1.jpg" width="40%">                       
+                   </div>
+                   <div class="img-section">
+                       <img src="images1/alco/feed2.jpg" width="40%">
+                       <img src="images1/alco/feed7.jpg" width="40%"> 
+                   </div>    
+                   <div class="img-section">
+                       <img src="images1/alco/feed4.jpg" width="40%">
+                       <img src="images1/alco/feed0.jpg" width="40%">                       
+                   </div>
+                </div>                                   
+ 				
+
+
+
+
+<!--REGISTRATION-->
+         
+ <section id="registration" class="description_content">
+            <div  class="reservation background_content">
+                <h1>РЕГИСТРАЦИЯ</h1>
+            </div> 
+ </section> 
+
+            <div class="text-content container"> 
+                <div class="inner contact">
+                    <!-- Form Area -->
+                    <div class="contact-form">
+                        <!-- Form -->
+                        <form id="contact-us" method="post" action="http://markup.themewagon.com/restaurant_pro/reserve.php">
+                            <!-- Left Inputs -->
+                            <div class="container">
+                            
+										<div class="right-text">
+                                            <h2>Мы ждём тебя в субботу, 25 ноября, по адресу М. Лубянка, ул. Мясницкая, 14</h2><hr>
+                                            <h2><br>Мастер-класс "Искусство бармена" начнётся в 18.00</h2><hr> 
+                                            
+                                            <p class="desc-text1">После регистрации мы отправим тебе на e-mail приглашение с подробной схемой прохода в наш бар.</p>
+                                            <p class="desc-text1">Дорогая (дорогой) дург! <b>Для участия в мероприятии необходимо зарегистрироваться заранее, на сайте.</b> 
+                                            <br>И, пожалуйста, зарегистрируйся <b>не позднее, чем за 1 час</b> до начала мероприятия!</p>                                   
+                           	 </div>
+                          	</div>                                                       
+                            <section  id="registrationform"  class="description_content">
+										<h2>ЗАРЕГИСТРИРОВАТЬСЯ</h2>
+										<br><b>Выбери интересующий тариф</b>
+									 </div>
+					<div class="text-content container"> 
+               	<div class="col-md-2">              
+               	</div>		
+               				
+               	<div class="col-md-3">              
+							<p class="desc-text1">                                           
+                  		<b>пригласительный
+                     	<br>для одного</b>
+                     	<br>
+                     	<br>
+                     	<br>Четверг, 23нояб 19:00 
+                        <br>На данный момент 
+                        свободно: <b>4</b> из <b>6</b></p>                     	
+                     	<br>
+								<br>
+								<hr>
+								<p class="desc-text1">   
+									Стоимость пригласительного - 
+									<br>2440 рублей
+									<br>
+
+								</p>
+								<br>
+								<div class="section clearfix">
+									<div class="title-text">   
+									<div class="button1"><a href="choco/1.2pay_CHOCO.html"><b>Оплатить</b></a></div>
+									<br>										
+
+									</div>
+								</div> 
+								<hr><hr><hr>                  
+               	</div>
+               
+               <div class="col-md-3">              
+						<p class="desc-text1">                                           
+                  	<b>пригласительный 
+                     <br>для двоих</b>
+                     <br>
+                     <br>
+                    	<br>Четверг, 23нояб 19:00 
+                     <br>На данный момент 
+                     свободно: <b>4</b> из <b>6</b></p>
+                     <br>   
+							<br>
+							<hr>
+							<p class="desc-text1">   
+								Стоимость пригласительного - 
+								<br>4700 рублей
+								<br>
+							</p>
+								<br>
+								<div class="section clearfix">
+									<div class="title-text">   
+									<div class="button1"><a href="choco/1.3pay_CHOCO.html"><b>Оплатить</b></a></div>	
+								</div>
+							</div>
+							<hr><hr><hr>                  							                   
+               </div>
+               
+               <div class="col-md-3">              
+						<p class="desc-text1">                                           
+                  	<b>"Всё для вас"</b>
+                     <br>(в мастер-классе участвует только ваша компания, и не важно, сколько вас - хоть двое)
+                     <br>
+                     <br>Ближайшая доступная дата - пятница, 24 ноября</p>
+
+
+							<hr>
+							<p class="desc-text1">   
+								Стоимость пригласительного - 
+								<br>9990 рублей
+								<br>
+							</p>
+								<br>
+								<div class="section clearfix">
+									<div class="title-text">    
+									<div class="button1"><a href="choco/1.4pay_CHOCO.html"><b>Оплатить</b></a></div>
+								</div>
+							</div>
+							<hr><hr><hr>                  							                   
+               </div>
+               
+               
+            </div>                                
+                               
+     
+
+                               <p class="desc-text1">															                                          
+                               <br><br>Возникли вопросы? Напиши нашему администратору на <b>admin@exo-party.win</b>
+                               </p>
+                               <br><br>
+                            </div>
+                            <div class="clear"></div>
+                        <div id="reserveFormResponse"></div>
+                    </div><!-- End Contact Form Area -->
+                </div><!-- End Inner -->
+            </div>
+
+
+
+
+
+        <!-- ============ Footer Section  ============= -->
+
+        <footer class="sub_footer">
+            <div class="container">
+                <div class="col-md-4"><p class="sub-footer-text text-center"></a></p></div>
+                <div class="col-md-4"><p class="sub-footer-text text-center"></p>
+                </div>
+                <div class="col-md-4"><p class="sub-footer-text text-center"></a></p></div>
+						          
+            </div>
+        </footer>
+
+
+        <script type="text/javascript" src="js/jquery-1.10.2.min.js"> </script>
+        <script type="text/javascript" src="js/bootstrap.min.js" ></script>
+        <script type="text/javascript" src="js/jquery-1.10.2.js"></script>     
+        <script type="text/javascript" src="js/jquery.mixitup.min.js" ></script>
+        <script type="text/javascript" src="js/main.js" ></script>
+
+    </body>
+</html>
